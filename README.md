@@ -1,2 +1,2 @@
 # jgtonys.github.io
-Making a blog on Github Pages!
+Jungyu Kim Profile
